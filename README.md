@@ -15,8 +15,6 @@ python main.py
 
 You can also run commands in the Python console. Just type `python` in the command line to start the Python console. You can type Python commands directly into the shell. To exit the shell, type `exit()`.
 
-```powershell
-
 ## Challenge
 
 Each tutorial has a challenge, written as comments in the code. Read the challenge and see if you can complete it.
